@@ -35,7 +35,7 @@ PicPrism is a web application built with React and Vite for the client-side and 
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/your-username/pic-prism.git
+git clone https://github.com/NirajNirala633/pic-prism/
 cd pic-prism
 ```
 
